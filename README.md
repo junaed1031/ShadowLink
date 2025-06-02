@@ -35,8 +35,8 @@ ShadowLink/
 ## 🤝 How to Use
 
 1. Get a valid `vmess://` link (from RaceVPN or similar)
-2. **Install ProxiFire:**  
-   - Download and install [ProxiFire](https://www.proxifire.com/) (or your preferred source).
+2. **Install ProxiFier:**  
+   - Download and install [ProxiFier](https://www.proxifier.com/) (or your preferred source).
    - Open ProxiFire, go to **Profile**, and create a new Proxi server profile (matching your ShadowLink/Xray config as needed).
 3. **⬇️ Xray-core Download Link (Windows):**  
    - Download the `.zip` file (`xray-windows-64.zip`) from the official [Xray-core releases](https://github.com/XTLS/Xray-core/releases).
@@ -55,7 +55,7 @@ If all goes well, the config will be saved to `config_dark.json` and Xray-core w
 * [Xray-core](https://github.com/XTLS/Xray-core/releases)
 * [PyInstaller](https://www.pyinstaller.org/)
 * [RaceVPN](https://www.racevpn.com/) for test links  
-* [ProxiFire](https://proxifire.com/) for proxy management
+* [ProxiFier](https://proxifier.com/) for proxy management
 
 ---
 
