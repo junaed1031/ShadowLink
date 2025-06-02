@@ -49,7 +49,7 @@ If all goes well, the config will be saved to `config_dark.json` and Xray-core w
 
 ## 🏆 Credits
 
-* [Xray-core](https://github.com/XTLS/Xray-core)  
+* [Xray-core](https://github.com/XTLS/Xray-core/releases)
 * [PyInstaller](https://pyinstaller.org/)  
 * [RaceVPN](https://www.racevpn.com/) for test links  
 * [PoxiFire](https://poxifire.com/) for proxy management
