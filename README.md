@@ -38,10 +38,13 @@ ShadowLink/
 2. **Install PoxiFire:**  
    - Download and install [PoxiFire](https://poxifire.com/) (or your preferred source).
    - Open PoxiFire, go to **Profile**, and create a new Poxi server profile (matching your ShadowLink/Xray config as needed).
-3. Open `ShadowLink.exe`
-4. Click the top-right menu > `Config` > `Import` > `From Clipboard`
-5. Provide SNI/Host (example: `cdn.snapchat.com`)
-6. Click **Connect**
+3. **⬇️ Xray-core Download Link (Windows):**  
+   - Download the `.zip` file (`xray-windows-64.zip`) from the official [Xray-core releases](https://github.com/XTLS/Xray-core/releases).
+   - Unzip it and place `xray.exe`, `geoip.dat`, and `geosite.dat` into your ShadowLink folder.
+4. Open `ShadowLink.exe`
+5. Click the top-right menu > `Config` > `Import` > `From Clipboard`
+6. Provide SNI/Host (example: `cdn.snapchat.com`)
+7. Click **Connect**
 
 If all goes well, the config will be saved to `config_dark.json` and Xray-core will auto-start.
 
